@@ -1,4 +1,4 @@
-package com.jbcode.miniwiki;
+package com.jbcode.miniwiki.controller;
 
 import java.io.*;
 import javax.servlet.http.*;

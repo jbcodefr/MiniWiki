@@ -1,13 +1,15 @@
 package com.jbcode.miniwiki.beans;
 
+import java.io.Serializable;
 import java.util.Objects;
 
-public class Article {
+public class Article implements Serializable {
     private Long id;
     private String title;
     private String content;
 
     public Article() {
+        super();
     }
 
     public Article(Long id, String title, String content) {

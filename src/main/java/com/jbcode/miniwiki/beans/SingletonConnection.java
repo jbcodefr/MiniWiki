@@ -1,4 +1,4 @@
-package com.jbcode.miniwiki.dao;
+package com.jbcode.miniwiki.beans;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
