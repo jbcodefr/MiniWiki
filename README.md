@@ -1,9 +1,7 @@
-# miniwiki
- this miniwiki for now just crud article to db(PostgresSql)
- 
- java/javaEE/Boostrap/jstl/js
- 
 # Welcome to the MiniWiki!
+
+ This miniwiki for now just crud article to db(PostgresSql)
+ java/javaEE/Boostrap/jstl/js
 
 ### Using this miniwiki you can :
 
